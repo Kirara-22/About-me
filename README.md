@@ -11,9 +11,8 @@
 <p align = "center" ><a href = "https://www.facebook.com/yuichi.yuichi22/"> Facebook </a>
 <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail </a>
 <a href = "https://www.instagram.com/remnant.mori/"> Instagram </a> </p>
-
-<h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. <br> Kind of person? A jolly, talkative, and at some times, solemn. </p></h4>
 <hr>
+<h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. <br> Kind of person? A jolly, talkative, and at some times, solemn. </p></h4>
 <table>
     <th>Interests</th>
       <th> Reasoning </th>
