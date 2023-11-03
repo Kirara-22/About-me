@@ -1,9 +1,9 @@
 <hr>
 <table>
     <th>Interests</th>
+      <th> Reasoning </th>
     <tr>
   <td>Sleeping</td>
-        <th> Reasoning </th>
         <td> More on resting due to excessive playing or coding, either way, both are harmful to the eyes.</td>
         </tr>
     <tr>
