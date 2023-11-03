@@ -7,6 +7,4 @@
   <li> But is hardworking, diligent, and committed to the said program!</li>
 </ul>
 <h3> <p align = "center"> Socials </p> </h3>
-<p align = "right"> <a href = "https://www.facebook.com/yuichi.yuichi22/"> Facebook </a> </p> 
-<p align = "center"> <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail </a> </p> 
-<p align = "right"> <a href = "https://www.instagram.com/remnant.mori/"> Instagram </a> </p>
+<p align = "right"> <a href = "https://www.facebook.com/yuichi.yuichi22/"> Facebook </a> </p>  <p align = "center"> <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail </a> </p>  <p align = "right"> <a href = "https://www.instagram.com/remnant.mori/"> Instagram </a> </p>
