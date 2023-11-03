@@ -1,6 +1,6 @@
 <h1>Introduction</h1>
-<h4> <p align ="center"> The name's Mori, from Cavite — 21 years old.</h4>
-
+<h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old.</h4>
+<h4> <p align = "center"> Kind of person? A jolly, talkative, and at some times, solemn. I'm also nocturnal ^_^</h4>
 
 <hr>
 <table>
