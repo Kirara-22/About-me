@@ -12,3 +12,6 @@
 |   Facebook  |   Gmail   |   Instagram   |
 |:----------:|:----------:|:----------:|
 | [Facebook](https://www.facebook.com/yuichi.yuichi22/) | [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV) | [Instagram](https://www.instagram.com/remnant.mori/) |
+- [Facebook](https://www.facebook.com/yuichi.yuichi22/)
+- [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV)
+- [Instagram](https://www.instagram.com/remnant.mori/)
