@@ -9,4 +9,4 @@
 </ul>
 <h3> <p align = "center">  Socials </p> </h3>
 <p align ="center"> <a href = "https://www.facebook.com/yuichi.yuichi22/"> Facebook </a> <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail </a><a href = "https://www.instagram.com/remnant.mori/"> Instagram </a> </p>
-| [https://www.facebook.com/yuichi.yuichi22/](URL1) | [https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV](URL2) | [https://www.instagram.com/remnant.mori/](URL3) |
+| [Facebook](https://www.facebook.com/yuichi.yuichi22/) | [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV) | [Instagram](https://www.instagram.com/remnant.mori) |
