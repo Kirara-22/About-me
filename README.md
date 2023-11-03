@@ -3,6 +3,7 @@
     <th>Interests</th>
     <tr>
   <td>Sleeping</td>
+        <td> Reasoning </td>
         <td> More on resting due to excessive playing or coding, either way, both are harmful to the eyes.</td>
         </tr>
     <tr>
@@ -15,7 +16,6 @@
     </tr>
     <tr>
   <td>Research Curiousity Finds</td>
-         <td><b>My Favorite:</b> Broaden one's horizon towards something you're unsure of. </td>
-    <td> Research makes it possible to look on different facts and perspectives towards life.</td>
+         <td><b>My Favorite:</b> Broaden one's horizon towards something you're unsure of; Research makes it possible to look on different facts and perspectives towards life. </td>
     </tr>
 </table>
