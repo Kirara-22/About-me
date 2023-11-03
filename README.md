@@ -9,6 +9,11 @@
 </ul> </h6>
 <h3> <p align = "center">  Socials </p> </h3>
 <p align ="center"> <a href = "https://www.facebook.com/yuichi.yuichi22/"> Facebook </a> <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail </a><a href = "https://www.instagram.com/remnant.mori/"> Instagram </a> </p>
+<style>
+th {
+  margin-right: 20px;
+}
+</style>
 <table>
   <tr>
     <th> Facebook </th>
@@ -16,6 +21,4 @@
     <th> Instagram </th>
   </tr>
 </table>
-|   Facebook  |   Gmail   |   Instagram   |
-|:----------:|:----------:|:----------:|
-| <a href="https://www.facebook.com/yuichi.yuichi22/" style="margin-right: 20px;">Facebook</a> | <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV" style="margin-right: 20px;">Gmail</a> | <a href="https://www.instagram.com/remnant.mori/" style="margin-right: 20px;">Instagram</a> |
+
