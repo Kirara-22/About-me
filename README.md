@@ -7,5 +7,5 @@
   <li> Not much proficient when coding c++, java, html & css;</li>
   <li> But is hardworking, diligent, and committed to the said program!</li>
 </ul> </h6> 
-<a href = "https://www.facebook.com/yuichi.yuichi22/"> Facebook </a> <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail </a><a href = "https://www.instagram.com/remnant.mori/"> Instagram </a>
+<a href = "https://www.facebook.com/yuichi.yuichi22/"> Facebook      </a> <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail </a><a href = "https://www.instagram.com/remnant.mori/"> Instagram </a>
 
