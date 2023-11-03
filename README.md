@@ -14,5 +14,5 @@
     <th> Gmail </th>
     <th> Instagram </th>
   </tr>
-</table>
+</table> 
 
