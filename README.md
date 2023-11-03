@@ -1,4 +1,9 @@
 <img align="right" width="400" height="400" src = "https://github.com/Kirara-22/About-me/blob/main/images/mee.jpg?raw=true"> 
+<style>
+  a {
+    display: inline-block;
+    margin-right: 10px;
+</style>
 <h1><p align = "center"> Newly Created GitHub Account! </p> </h1> 
 <ul>
   <li> Hi! I am currently new and still learning about GitHub. </li>
