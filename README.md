@@ -12,10 +12,7 @@
 <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail </a>
 <a href = "https://www.instagram.com/remnant.mori/"> Instagram </a> </p>
 
-<h1><p align="center"> Introduction </p></h1>
 <h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. <br> Kind of person? A jolly, talkative, and at some times, solemn. </p></h4>
-
-
 <hr>
 <table>
     <th>Interests</th>
