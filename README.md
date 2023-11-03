@@ -9,4 +9,10 @@
 </ul> </h6>
 <h3> <p align = "center">  Socials </p> </h3>
 <p align ="center"> <a href = "https://www.facebook.com/yuichi.yuichi22/"> Facebook </a> <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail </a><a href = "https://www.instagram.com/remnant.mori/"> Instagram </a> </p>
-
+<table>
+  <tr>
+    <th> Facebook </th>
+    <th> Gmail </th>
+    <th> Instagram </th>
+  </tr>
+</table>
