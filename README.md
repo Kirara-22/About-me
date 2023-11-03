@@ -3,4 +3,6 @@
 <ul>
   <li> Hi! I am currently new and still learning about GitHub. </li>
   <li> Share your thoughts, learning materials, and things I can use as a beginner! </li>
+  <li> Not much proficient when coding c++, java, html & css.</li>
+  <li> But is hardworking, diligent, and committed to the said program!</li>
 </ul>
