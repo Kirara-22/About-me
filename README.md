@@ -13,6 +13,7 @@
 <a href = "https://www.instagram.com/remnant.mori/"> Instagram </a> </p>
 <hr>
 <h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. </p></h4>
+<hr>
 <table>
     <th>Interests</th>
       <th> Reasoning </th>
