@@ -19,7 +19,7 @@
 ![image](https://github.com/Kirara-22/About-me/assets/102254626/4f21a23b-8c44-4c8a-b1b2-578c27cf68ce)(https://www.w3schools.com/html/)
 ![image](https://github.com/Kirara-22/About-me/assets/102254626/0315b29b-7065-4667-8ead-33b0fd9536ab)(https://www.w3schools.com/css/)
 ![image](https://github.com/Kirara-22/About-me/assets/102254626/a3d30dc5-7c9b-45e1-a0e5-42d8df46f284)(https://www.w3schools.com/js/)
-![image](https://github.com/Kirara-22/About-me/assets/102254626/c2d99237-dfae-4c6a-91f2-a20b312a3eaa)(https://www.w3schools.com/cpp/)
+![C++](https://github.com/Kirara-22/About-me/assets/102254626/c2d99237-dfae-4c6a-91f2-a20b312a3eaa)(https://www.w3schools.com/cpp/)
 
 
 
