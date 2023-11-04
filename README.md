@@ -16,6 +16,7 @@
 <hr>
 <h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. </p></h4>
 <hr>
+<img align = "right" src = "https://github.com/Kirara-22/About-me/blob/add-branch/images/icons8-html-48.png?raw=true"> <a href ="https://www.w3schools.com/html/ ">
 ![image](https://github.com/Kirara-22/About-me/blob/add-branch/images/icons8-html-48.png?raw=true)(https://www.w3schools.com/html/)
 ![image](https://github.com/Kirara-22/About-me/blob/add-branch/images/icons8-css-48.png?raw=true)(https://www.w3schools.com/css/)
 ![image](https://github.com/Kirara-22/About-me/blob/add-branch/images/icons8-javascript-48.png?raw=true)(https://www.w3schools.com/js/)
