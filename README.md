@@ -16,14 +16,6 @@
 <hr>
 <h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. </p></h4>
 <hr>
-![c++](https://github.com/Kirara-22/About-me/blob/add-branch/images/c++.png?raw=true)
- 
-
-
-
-
-
-
 
 <table>
     <th>Interests</th>
