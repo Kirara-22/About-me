@@ -4,9 +4,9 @@
     <a href = "https://www.facebook.com/yuichi.yuichi22/"><img src ="https://img.icons8.com/?size=48&id=13912&format=png"></img></a>
     <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> <img src ="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"></img> </a> 
     <a href = "https://www.instagram.com/remnant.mori/">  <img src ="https://img.icons8.com/?size=48&id=32323&format=png"> </img> </a>
-</h1> 
-<h4> The name's Mori, from Cavite, PH — 21 years old. </h4>
 
+
+ <h4> The name's Mori, from Cavite, PH — 21 years old. </h4> </p> </h1>
  <h5> <ul> 
   <li> Hi! I am currently new and still learning about GitHub. </li>
   <li> Share your thoughts, learning materials, and things I can use as a beginner! </li>
