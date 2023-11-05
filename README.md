@@ -20,6 +20,8 @@
 - But is hardworking, diligent, and committed to the said program!
 - Hope you could help me learn! Feel free to request changes to my codes too! I know they aren't organized hehe 🤗
 
+<hr> 
+
 | Interests                 | Reasoning                                                                                                      |
 |---------------------------|----------------------------------------------------------------------------------------------------------------|
 | Sleeping                  | More on resting due to excessive playing or coding, either way, both are harmful to the eyes.               |
