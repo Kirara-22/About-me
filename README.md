@@ -1,6 +1,6 @@
 
 <hr>
-<h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. <br> </p></h4> <p align ="right" href ="https://github.com/Kirara-22/About-me/blob/info-branch/images/mee.jpg?raw=true></p>
+<h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. <br> </p></h4> <p align ="right" href ="https://github.com/Kirara-22/About-me/blob/info-branch/images/mee.jpg?raw=true"></p>
 <table>
     <th>Interests</th>
       <th> Reasoning </th>
