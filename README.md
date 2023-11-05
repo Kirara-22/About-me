@@ -15,7 +15,10 @@
   <li> But is hardworking, diligent, and committed to the said program!</li>
   <li> Hope you could help me learn! Feel free to request changes to my codes too! I know they aren't organized hehe	🤗 </li>
 </ul> </h6>
- <a href = "https://html.com/"><img src ="https://img.icons8.com/?size=48&id=13912&format=png"></img></a>
+ <p align ="center"> <a href = "https://html.com/"><img src ="https://github.com/Kirara-22/Kirara-22/blob/info-branch/images/icons8-html-48%20(1).png?raw=true"></img></a>
+ <a href = "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src ="https://github.com/Kirara-22/Kirara-22/blob/info-branch/images/icons8-css-48%20(1).png?raw=true"></img></a>
+ <a href = "https://www.javascript.com/"><img src ="https://github.com/Kirara-22/Kirara-22/blob/info-branch/images/icons8-javascript-48%20(1).png?raw=true"></img></a>
+ <a href = "https://www.programiz.com/cpp-programming"><img src ="https://github.com/Kirara-22/Kirara-22/blob/info-branch/images/icons8-c-plus-plus-48.png?raw=true"></img></a> </p>
 
 
 <table>
