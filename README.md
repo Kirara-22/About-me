@@ -9,8 +9,8 @@
 </ul> </h6> 
 
 <p align = "center" ><a href = "https://www.facebook.com/yuichi.yuichi22/"><img src ="https://img.icons8.com/?size=48&id=13912&format=png"></img></a>
-<a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail <img src =""> </a> 
-<a href = "https://www.instagram.com/remnant.mori/"> Instagram </a> <img src =""> </p>
+<a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV">  <img src ="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"> </img> </a> 
+<a href = "https://www.instagram.com/remnant.mori/">  <img src ="https://img.icons8.com/?size=64&id=119026&format=png"> </img> </a>
 <hr>
 <h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. <br> Kind of person? A jolly, talkative, and at some times, solemn. </p></h4>
 <table>
