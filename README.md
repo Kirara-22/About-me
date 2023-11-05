@@ -11,7 +11,7 @@
   <li> Share your thoughts, learning materials, and things I can use as a beginner! </li>
   <li> Ain't proficient when coding c++, java, html & css;</li>
   <li> But is hardworking, diligent, and committed to the said program!</li>
-  <li> Hope you could help me learn! 	🤗 </li>
+  <li> Hope you could help me learn! Feel free to request changes to my codes too! I know they aren't organized hehe	🤗 </li>
 </ul> </h5> </p>
 
 
