@@ -12,7 +12,6 @@
   <a href="https://www.programiz.com/cpp-programming"><img src="https://github.com/Kirara-22/Kirara-22/blob/main/images/icons8-c-plus-plus-48.png?raw=true" alt="C++"></a>
 </p>
 
-##### <div align ="center" > Introductory </div>
 The name's Mori, from Cavite, PH — 21 years old. 
 
 ######
