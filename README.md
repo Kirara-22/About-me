@@ -6,13 +6,14 @@
 <a href = "https://www.instagram.com/remnant.mori/">  <img src ="https://img.icons8.com/?size=48&id=32323&format=png"> </img> </a>
 </h1> 
 <h4> The name's Mori, from Cavite, PH — 21 years old. </h4>
+ </p>
  <h5> <ul> 
   <li> Hi! I am currently new and still learning about GitHub. </li>
   <li> Share your thoughts, learning materials, and things I can use as a beginner! </li>
   <li> Ain't proficient when coding c++, java, html & css;</li>
   <li> But is hardworking, diligent, and committed to the said program!</li>
   <li> Hope you could help me learn! Feel free to request changes to my codes too! I know they aren't organized hehe	🤗 </li>
-</ul> </h5> </p>
+</ul> </h5>
 
 
 <table>
