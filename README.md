@@ -37,6 +37,12 @@
          <td><b>My Favorite:</b> Broaden one's horizon towards something you're unsure of; Research makes it possible to look on different facts and perspectives towards life. </td>
     </tr>
 </table>
+
+<style>
+    .p {
+        margin-right: 100px;
+    }
+</style>
 <p align ="center" margin-right: 20px;>
     <a href = "https://www.facebook.com/yuichi.yuichi22/"><img src ="https://img.icons8.com/?size=48&id=13912&format=png"></img></a>
     <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> <img src ="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"></img> </a> 
