@@ -7,7 +7,7 @@
      <a href = "https://www.javascript.com/"><img src ="https://github.com/Kirara-22/Kirara-22/blob/info-branch/images/icons8-javascript-48%20(1).png?raw=true"></img></a>
      <a href = "https://www.programiz.com/cpp-programming"><img src ="https://github.com/Kirara-22/Kirara-22/blob/info-branch/images/icons8-c-plus-plus-48.png?raw=true"></img></a> 
 </p> </h1>
-
+//introductory
  <h4> The name's Mori, from Cavite, PH — 21 years old. </h4> 
  <h6> <ul> 
   <li> Hi! I am currently new and still learning about GitHub. </li>
