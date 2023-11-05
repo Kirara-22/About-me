@@ -1,10 +1,11 @@
 <hr>
 <img align="right" width="300" height="300" src = "https://github.com/Kirara-22/About-me/blob/main/images/mee.jpg?raw=true"> 
-<h1><p align = "center"> Newly Created GitHub Account! </p> </h1> <p align = "right" ><a href = "https://www.facebook.com/yuichi.yuichi22/"><img src ="https://img.icons8.com/?size=48&id=13912&format=png"></img></a>
-<a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV">  <img src ="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"> </img> </a> 
+<h1><p align = "center"> Newly Created GitHub Account! 
+ <a href = "https://www.facebook.com/yuichi.yuichi22/"><img src ="https://img.icons8.com/?size=48&id=13912&format=png"></img></a>
+<a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> <img src ="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"></img> </a> 
 <a href = "https://www.instagram.com/remnant.mori/">  <img src ="https://img.icons8.com/?size=48&id=32323&format=png"> </img> </a>
-<hr>
-<h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. <br> Kind of person? A jolly, talkative, and at some times, solemn. </p></h4>
+<hr></p> </h1> 
+<h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. </p></h4>
  <h5> <ul> 
   <li> Hi! I am currently new and still learning about GitHub. </li>
   <li> Share your thoughts, learning materials, and things I can use as a beginner! </li>
