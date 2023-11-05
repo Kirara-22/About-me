@@ -1,20 +1,19 @@
 ---
 
 <div align="right">
-  <img src="https://scontent.fmnl25-1.fna.fbcdn.net/v/t39.30808-6/356842120_1889117164807255_2348420687994521295_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeETEuOKmhlw4kIKVSFN0cFXOuDOAZEeyks64M4BkR7KS0UcrCFD2hU45j3RZaZap1z0MV10q1-nXnXJ51PSSqvF&_nc_ohc=r6ILXYDXjtsAX86ZaEv&_nc_oc=AQkfXOYiwfZDxznHgF2vAQPaK1vm0gOrJ0p-YOsiDkmM3Q1dmAiJ4nAvpZsowNi0FLo&_nc_ht=scontent.fmnl25-1.fna&oh=00_AfCdI0uBWef7u9kknGWZwF07Lr23ggH4rHVFjIMfPZOYLg&oe=654D12D4" width="400" height="400" align="right">
+  <img src="https://scontent.fmnl25-1.fna.fbcdn.net/v/t39.30808-6/356842120_1889117164807255_2348420687994521295_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeETEuOKmhlw4kIKVSFN0cFXOuDOAZEeyks64M4BkR7KS0UcrCFD2hU45j3RZaZap1z0MV10q1-nXnXJ51PSSqvF&_nc_ohc=r6ILXYDXjtsAX86ZaEv&_nc_oc=AQkfXOYiwfZDxznHgF2vAQPaK1vm0gOrJ0p-YOsiDkmM3Q1dmAiJ4nAvpZsowNi0FLo&_nc_ht=scontent.fmnl25-1.fna&oh=00_AfCdI0uBWef7u9kknGWZwF07Lr23ggH4rHVFjIMfPZOYLg&oe=654D12D4" width="350" height="350" align="right">
 </div>
-# Newly Created GitHub Account!
+
+# Newly Created GitHub Account
 
 <p align="center">
   <a href="https://html.com/"><img src="https://github.com/Kirara-22/Kirara-22/blob/main/images/icons8-html-48%20(1).png?raw=true" alt="HTML"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src="https://github.com/Kirara-22/Kirara-22/blob/main/images/icons8-css-48%20(1).png?raw=true" alt="CSS"></a>
   <a href="https://www.javascript.com/"><img src="https://github.com/Kirara-22/Kirara-22/blob/main/images/icons8-javascript-48%20(1).png?raw=true" alt="JavaScript"></a>
   <a href="https://www.programiz.com/cpp-programming"><img src="https://github.com/Kirara-22/Kirara-22/blob/main/images/icons8-c-plus-plus-48.png?raw=true" alt="C++"></a>
-</p>
+</p> 
 
-The name's Mori, from Cavite, PH — 21 years old. 
-
-######
+- The name's Mori, from PH — 21 years old.
 - Hi! I am currently new and still learning about GitHub.
 - Share your thoughts, learning materials, and things I can use as a beginner!
 - Ain't proficient when coding c++, java, html & css;
