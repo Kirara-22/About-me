@@ -8,7 +8,7 @@
   <li> But is hardworking, diligent, and committed to the said program!</li>
 </ul> </h6> 
 
-<p align = "center" ><a href = "https://www.facebook.com/yuichi.yuichi22/"> Facebook <img src ="https://icons8.com/icon/13912/facebook"> </img></a>
+<p align = "center" ><a href = "https://www.facebook.com/yuichi.yuichi22/"> Facebook <img src ="https://img.icons8.com/?size=48&id=13912&format=png"> </img></a>
 <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail <img src =""> </a> 
 <a href = "https://www.instagram.com/remnant.mori/"> Instagram </a> <img src =""> </p>
 <hr>
