@@ -1,13 +1,13 @@
 <hr>
-<img align="right" width="300" height="300" src = "https://github.com/Kirara-22/About-me/blob/main/images/mee.jpg?raw=true"> 
+<img align="right" width="250" height="250" src = "https://github.com/Kirara-22/About-me/blob/main/images/mee.jpg?raw=true"> 
 <h1><p align = "center"> Newly Created GitHub Account! </p> </h1> 
- <h4> <ul> 
+ <h5> <ul> 
   <li> Hi! I am currently new and still learning about GitHub. </li>
   <li> Share your thoughts, learning materials, and things I can use as a beginner! </li>
   <li> Ain't proficient when coding c++, java, html & css;</li>
   <li> But is hardworking, diligent, and committed to the said program!</li>
   <li> Hope you could help me learn! 	🤗 </li>
-</ul> </h4> 
+</ul> </h5> 
 
 <p align = "right" ><a href = "https://www.facebook.com/yuichi.yuichi22/"><img src ="https://img.icons8.com/?size=48&id=13912&format=png"></img></a>
 <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV">  <img src ="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"> </img> </a> 
