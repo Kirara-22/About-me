@@ -6,7 +6,7 @@
     <a href = "https://www.instagram.com/remnant.mori/">  <img src ="https://img.icons8.com/?size=48&id=32323&format=png"> </img> </a>
     <a href = "https://discord.com/channels/@me/1000996341792637039"> <img src = "https://img.icons8.com/?size=48&id=30998&format=png" > </img> </a>
 </p> </h1>
-
+<hr>
  <h4> The name's Mori, from Cavite, PH — 21 years old. </h4> 
  <h5> <ul> 
   <li> Hi! I am currently new and still learning about GitHub. </li>
