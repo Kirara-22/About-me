@@ -1,6 +1,6 @@
 <hr>
 <img align="right" width="300" height="300" src = "https://github.com/Kirara-22/About-me/blob/main/images/mee.jpg?raw=true"> 
-<h1><p align = "center"> Newly Created GitHub Account! 
+<h1><p align = "center"> Newly Created GitHub Account! <br>
  <a href = "https://www.facebook.com/yuichi.yuichi22/"><img src ="https://img.icons8.com/?size=48&id=13912&format=png"></img></a>
 <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> <img src ="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"></img> </a> 
 <a href = "https://www.instagram.com/remnant.mori/">  <img src ="https://img.icons8.com/?size=48&id=32323&format=png"> </img> </a>
