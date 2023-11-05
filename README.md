@@ -1,18 +1,25 @@
 <hr>
-<img align="right" width="300" height="300" src = "https://scontent.fmnl25-1.fna.fbcdn.net/v/t39.30808-6/356842120_1889117164807255_2348420687994521295_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeETEuOKmhlw4kIKVSFN0cFXOuDOAZEeyks64M4BkR7KS0UcrCFD2hU45j3RZaZap1z0MV10q1-nXnXJ51PSSqvF&_nc_ohc=r6ILXYDXjtsAX86ZaEv&_nc_oc=AQkfXOYiwfZDxznHgF2vAQPaK1vm0gOrJ0p-YOsiDkmM3Q1dmAiJ4nAvpZsowNi0FLo&_nc_ht=scontent.fmnl25-1.fna&oh=00_AfCdI0uBWef7u9kknGWZwF07Lr23ggH4rHVFjIMfPZOYLg&oe=654D12D4"> 
-<h1><p align = "center"> Newly Created GitHub Account! </p> </h1> 
+<img align="right" width="400" height="400" src = "https://scontent.fmnl25-1.fna.fbcdn.net/v/t39.30808-6/356842120_1889117164807255_2348420687994521295_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeETEuOKmhlw4kIKVSFN0cFXOuDOAZEeyks64M4BkR7KS0UcrCFD2hU45j3RZaZap1z0MV10q1-nXnXJ51PSSqvF&_nc_ohc=r6ILXYDXjtsAX86ZaEv&_nc_oc=AQkfXOYiwfZDxznHgF2vAQPaK1vm0gOrJ0p-YOsiDkmM3Q1dmAiJ4nAvpZsowNi0FLo&_nc_ht=scontent.fmnl25-1.fna&oh=00_AfCdI0uBWef7u9kknGWZwF07Lr23ggH4rHVFjIMfPZOYLg&oe=654D12D4"> 
+
+[//]: <> (Learned Programming Languages)
+<h1><p align = "center"> Newly Created GitHub Account! <br>
+    <a href = "https://html.com/"><img src ="https://github.com/Kirara-22/Kirara-22/blob/info-branch/images/icons8-html-48%20(1).png?raw=true"></img></a>
+    <a href = "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"><img src ="https://github.com/Kirara-22/Kirara-22/blob/info-branch/images/icons8-css-48%20(1).png?raw=true"></img></a>
+     <a href = "https://www.javascript.com/"><img src ="https://github.com/Kirara-22/Kirara-22/blob/info-branch/images/icons8-javascript-48%20(1).png?raw=true"></img></a>
+     <a href = "https://www.programiz.com/cpp-programming"><img src ="https://github.com/Kirara-22/Kirara-22/blob/info-branch/images/icons8-c-plus-plus-48.png?raw=true"></img></a> 
+</p> </h1>
+
+[//]: <> (Introductory)
+ <h4> The name's Mori, from Cavite, PH — 21 years old. </h4> 
  <h6> <ul> 
   <li> Hi! I am currently new and still learning about GitHub. </li>
   <li> Share your thoughts, learning materials, and things I can use as a beginner! </li>
-  <li> Not much proficient when coding c++, java, html & css;</li>
+  <li> Ain't proficient when coding c++, java, html & css;</li>
   <li> But is hardworking, diligent, and committed to the said program!</li>
-</ul> </h6> 
+  <li> Hope you could help me learn! Feel free to request changes to my codes too! I know they aren't organized hehe	🤗 </li>
+</ul> </h6>
 
-<p align = "center" ><a href = "https://www.facebook.com/yuichi.yuichi22/"> Facebook </a>
-<a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> Gmail </a>
-<a href = "https://www.instagram.com/remnant.mori/"> Instagram </a> </p>
-<hr>
-<h4> <p align ="center"> The name's Mori, from Cavite, PH — 21 years old. <br> Kind of person? A jolly, talkative, and at some times, solemn. </p></h4>
+[//]: <> (More Introductory)
 <table>
     <th>Interests</th>
       <th> Reasoning </th>
@@ -33,6 +40,14 @@
          <td><b>My Favorite:</b> Broaden one's horizon towards something you're unsure of; Research makes it possible to look on different facts and perspectives towards life. </td>
     </tr>
 </table>
+
+[//]: <> (Socials)
+<p align ="center" margin-right: 20px;>
+    <a href = "https://www.facebook.com/yuichi.yuichi22/"><img src ="https://img.icons8.com/?size=48&id=13912&format=png"></img></a>
+    <a href ="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"> <img src ="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"></img> </a> 
+    <a href = "https://www.instagram.com/remnant.mori/">  <img src ="https://img.icons8.com/?size=48&id=32323&format=png"> </img> </a>
+    <a href = "https://discord.com/channels/@me/1000996341792637039"> <img src = "https://img.icons8.com/?size=48&id=30998&format=png" > </img> </a>
+ </p>
 <hr>
 
 
