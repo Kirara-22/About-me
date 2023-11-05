@@ -8,13 +8,13 @@
     <a href = "https://discord.com/channels/@me/1000996341792637039"> <img src = "https://img.icons8.com/?size=48&id=30998&format=png" > </img> </a>
 </p> </h1>
  <h4> The name's Mori, from Cavite, PH — 21 years old. </h4> 
- <h5> <ul> 
+ <h6> <ul> 
   <li> Hi! I am currently new and still learning about GitHub. </li>
   <li> Share your thoughts, learning materials, and things I can use as a beginner! </li>
   <li> Ain't proficient when coding c++, java, html & css;</li>
   <li> But is hardworking, diligent, and committed to the said program!</li>
   <li> Hope you could help me learn! Feel free to request changes to my codes too! I know they aren't organized hehe	🤗 </li>
-</ul> </h5>
+</ul> </h6>
 
 <table>
     <th>Interests</th>
