@@ -4,8 +4,9 @@
  <h4> <ul> 
   <li> Hi! I am currently new and still learning about GitHub. </li>
   <li> Share your thoughts, learning materials, and things I can use as a beginner! </li>
-  <li> Not much proficient when coding c++, java, html & css;</li>
+  <li> Ain't proficient when coding c++, java, html & css;</li>
   <li> But is hardworking, diligent, and committed to the said program!</li>
+  <li> Hope you could help me learn! 	＼(٥⁀▽⁀ )／ </li>
 </ul> </h4> 
 
 <p align = "right" ><a href = "https://www.facebook.com/yuichi.yuichi22/"><img src ="https://img.icons8.com/?size=48&id=13912&format=png"></img></a>
