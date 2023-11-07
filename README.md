@@ -33,7 +33,7 @@
   <a href="https://www.facebook.com/yuichi.yuichi22/"><img src="https://img.icons8.com/?size=48&id=13912&format=png"></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRnXvVGMHCfFvtjgNplsqnzdlSmDwgwgkqLSTGDZGnPSjpqfcNJhtGjdPCBFxmRLcLbFjkV"><img src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png"></a>
   <a href="https://www.instagram.com/remnant.mori/"><img src="https://img.icons8.com/?size=48&id=32323&format=png"></a>
-  <a href="https://discord.com/channels/@me/1000996341792637039"><img src="https://img.icons8.com/?size=48&id=30998&format=png"></a>
+  <a href="discord.com/users/838642595906322482"><img src="https://img.icons8.com/?size=48&id=30998&format=png"></a>
 </p>
 
 ---
